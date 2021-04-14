@@ -16,6 +16,8 @@ Want to know more about me? [Check out my portfolio.](https://amammustofa.com/)
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [MobX 6 with multiple stores using React hooks](https://dev.to/cakasuma/using-mobx-hooks-with-multiple-stores-in-react-3dk4)
+- [My Coding Journey, and Coding Tips](https://dev.to/cakasuma/my-coding-journey-and-coding-tips-268g)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
