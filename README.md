@@ -9,7 +9,7 @@ Hey there 👋
 
 I’m Amam, a senior full-stack engineer, creative coder and self-proclaimed blogger who specializes in front-end development. I make it my mission to translate user-focused designs into websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my website.](https://amammustofa.com/) or [My resume](https://drive.google.com/file/d/1eHttnQqg3J9Uvv28BvdzSIfOEW8z03Ab/view?usp=sharing)
+Want to know more about me? [Check out my website.](https://amammustofa.netlify.app/) or [My resume](https://drive.google.com/file/d/1eHttnQqg3J9Uvv28BvdzSIfOEW8z03Ab/view?usp=sharing)
 
 ## 📝 Latest Blog Posts
 
