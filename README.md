@@ -22,25 +22,22 @@ Want to know more about me? [Check out my website.](https://amammustofa.com/) or
 
 <br>
 
-<!-- Note: github-readme-stats images may experience downtime. If images are not loading, 
-     consider deploying your own instance: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
-
 ## 📌 Pinned Repositories
 
 <br>
 
 <a href="https://github.com/cakasuma/amam-portfolio">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cakasuma&repo=amam-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-cards.pages.dev/api?repo=cakasuma/amam-portfolio&theme=dark&bg_color=1A2B34&title_color=ffffff&text_color=c9cacc&icon_color=4AB197" />
 </a>
 
 <br>
 
 <a href="https://github.com/cakasuma/file-upload-n8n">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cakasuma&repo=file-upload-n8n&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-cards.pages.dev/api?repo=cakasuma/file-upload-n8n&theme=dark&bg_color=1A2B34&title_color=ffffff&text_color=c9cacc&icon_color=4AB197" />
 </a>
 
 <a href="https://github.com/cakasuma/nodejs_template_auth">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cakasuma&repo=nodejs_template_auth&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-cards.pages.dev/api?repo=cakasuma/nodejs_template_auth&theme=dark&bg_color=1A2B34&title_color=ffffff&text_color=c9cacc&icon_color=4AB197" />
 </a>
 
 <br>
@@ -51,11 +48,7 @@ Want to know more about me? [Check out my website.](https://amammustofa.com/) or
 <br>
 
 <a href="https://github.com/cakasuma">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakasuma&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/cakasuma">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=cakasuma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Amam's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://streak-stats.demolab.com?user=cakasuma&theme=dark&hide_border=true&background=1A2B34&ring=4AB197&fire=4AB197&currStreakNum=ffffff&sideNums=c9cacc&currStreakLabel=c9cacc&sideLabels=c9cacc&dates=c9cacc" alt="Amam's GitHub Stats" />
 </a>
 
 <br>
