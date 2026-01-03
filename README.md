@@ -27,17 +27,17 @@ Want to know more about me? [Check out my website.](https://amammustofa.com/) or
 <br>
 
 <a href="https://github.com/cakasuma/amam-portfolio">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-cards.pages.dev/api?repo=cakasuma/amam-portfolio&theme=dark&bg_color=1A2B34&title_color=ffffff&text_color=c9cacc&icon_color=4AB197" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://opengraph.githubassets.com/1/cakasuma/amam-portfolio" alt="amam-portfolio" width="400" />
 </a>
 
 <br>
 
 <a href="https://github.com/cakasuma/file-upload-n8n">
-  <img align="center" style="margin:0.5rem" src="https://github-cards.pages.dev/api?repo=cakasuma/file-upload-n8n&theme=dark&bg_color=1A2B34&title_color=ffffff&text_color=c9cacc&icon_color=4AB197" />
+  <img align="center" style="margin:0.5rem" src="https://opengraph.githubassets.com/1/cakasuma/file-upload-n8n" alt="file-upload-n8n" width="400" />
 </a>
 
 <a href="https://github.com/cakasuma/nodejs_template_auth">
-  <img align="center" style="margin:0.5rem" src="https://github-cards.pages.dev/api?repo=cakasuma/nodejs_template_auth&theme=dark&bg_color=1A2B34&title_color=ffffff&text_color=c9cacc&icon_color=4AB197" />
+  <img align="center" style="margin:0.5rem" src="https://opengraph.githubassets.com/1/cakasuma/nodejs_template_auth" alt="nodejs_template_auth" width="400" />
 </a>
 
 <br>
