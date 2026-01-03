@@ -1,6 +1,6 @@
 [![Braydon's GitHub Banner](./github_banner.png)](https://amammustofa.com)
 
-[![Visits Badge](https://badges.pufler.dev/visits/cakasuma/cakasuma)](https://amammustofa.com)
+[![Visits Badge](https://hitscounter.dev/api/hit?url=amammustofa.com&label=Visits+Badge&icon=github&color=%23198754&message=&style=flat&tz=UTC)](https://amammustofa.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/amam.mustofa)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mustofa-ghaleb-amami/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/cakasuma-the-decoder)
