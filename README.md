@@ -27,7 +27,7 @@ Want to know more about me? [Check out my website.](https://amammustofa.com/) or
 <br>
 
 <a href="https://github.com/cakasuma/amam-portfolio">
-  <img align="center" style="margin:1rem 0.5rem" src="https://opengraph.githubassets.com/1/cakasuma/amam-portfolio" alt="amam-portfolio" width="400" />
+  <img align="center" style="margin:0.5rem" src="https://opengraph.githubassets.com/1/cakasuma/amam-portfolio" alt="amam-portfolio" width="400" />
 </a>
 
 <br>
