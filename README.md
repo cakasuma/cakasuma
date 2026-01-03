@@ -22,6 +22,9 @@ Want to know more about me? [Check out my website.](https://amammustofa.com/) or
 
 <br>
 
+<!-- Note: github-readme-stats images may experience downtime. If images are not loading, 
+     consider deploying your own instance: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+
 ## 📌 Pinned Repositories
 
 <br>
